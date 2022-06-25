@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @sachinkumarpathak1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sachinkumarpathak1/sachinkumarpathak1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi i am sachin kumar pathak 
+working to be a good full stack developer
+ i am always curious to learn new skills 
+ 
+ i you can teach me something than please contact me 
+ my whatsapp number is 9031238780 .
+ 
